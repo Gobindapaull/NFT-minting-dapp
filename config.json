@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x120459a26A8903DAC855F679b9bd647Ca3639703",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x120459a26a8903dac855f679b9bd647ca3639703",
+  "NETWORK": {
+    "NAME": "rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "SuperRare NFT Collection",
+  "SYMBOL": "SUPR",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.075,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/superrare-wpqbfldsgu",
+  "SHOW_BACKGROUND": true
+}
